@@ -1,2 +1,5 @@
 server:
   port: 8003
+
+logging:
+  config: classpath:logback.xml
